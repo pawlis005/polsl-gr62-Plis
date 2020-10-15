@@ -1,1 +1,1 @@
-# polsl-gr62-Plis
+Paweł Lisiecki Temat projektu: gra Snake
